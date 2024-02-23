@@ -1,0 +1,10 @@
+﻿- Arama işlemi eklenecek
+- üyelik sistemi ekleenecek
+- Identity kütüphensi anlatılacak ***
+- Yardım Popup ı yapılacak 
+- Ayarlar Şifre işlemi yapılacak
+- Girş ve Çıkış Yap işlemi
+- Yeni Üye Kaydı
+- Admin --> AspNet User
+- publish İşlemi 
+- Projenin Canlıya Taşınması
